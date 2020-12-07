@@ -24,7 +24,8 @@ So the 3 steps are:
 
 - Giving videos space to breath. Mark uploads one per week, the argument of the video is that it is because youtube no more rewards "more content", but rather the "quality". 
 
-*I think that the important thing on the video is to make sure you are making the best version of the video so it can be well-ranked, so the goal is to have a good ranked video, and then, another good ranked video, and then another, another... so the algorithm will give you preference, cause it will know you are doing things "fine" and people is staying on your videos, that is excatly what youtube whants; to have more people stay at the platform's videos! and what so more than a chain of good videos!
+*I think that the important thing on the video is to make sure you are making the best version of the video so it can be well-ranked, so the goal is to have a good ranked video, and then, another good ranked video, and then another, another... so the algorithm will give you preference, cause it will know you are doing things "fine" and people is staying on your videos, that is excatly what youtube whants; to have more people stay at the platform's videos! and what so more than a chain of good videos!*
+
 
 
 ## Chair
