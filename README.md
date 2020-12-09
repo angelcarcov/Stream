@@ -27,6 +27,24 @@ So the 3 steps are:
 *I think that the important thing on the video is to make sure you are making the best version of the video so it can be well-ranked, so the goal is to have a good ranked video, and then, another good ranked video, and then another, another... so the algorithm will give you preference, cause it will know you are doing things "fine" and people is staying on your videos, that is excatly what youtube whants; to have more people stay at the platform's videos! and what so more than a chain of good videos!*
 
 
+Now lets have a look at [this](https://www.youtube.com/watch?v=gHuUHOpbuCc&ab_channel=CathrinManning) youtube video. Altought the video is just pure talk and the arguments are often not well structured, she is just saying what every youtuber knows:
+
+[![Screen-Shot-2020-12-08-at-7-14-30-PM.png](https://i.postimg.cc/HkhCR17G/Screen-Shot-2020-12-08-at-7-14-30-PM.png)](https://postimg.cc/pmz757Zk)
+So, with some help into the argument-constructing, there are a couple things we can get from this
+
+
+- Get on **search**. She doesn't explain why, but *for me* is really simple: *If you are a small channel, the only way to get noticed by the audience is to actually get noticed. If, nobody knows your video exists, there is no way of increasing the click-through rate and therefore there's no engagement.* So first you gotta get "the chance"! She says that the best way to get it is by putting your tags in the right position (appearing on search)
+
+- Focus on the **click-through rate**, because just having good "search" is not good enough. Here she says the first good argument. "If you get recomended in the youtube frontpage, but nobody is actually clicking on your video, so... because youtube wants people to actually click the videos it recomends, if nobody is picking up your video, logically youtube will took it down, and never recomend it. 
+
+- Maintain **Video engagement** through your video. Here she gives us a valid argument. If Youtube wants to make sure that the content he is recommending is actually likeable for the user; then the more likes, retention time and clicks on your videos, the more you'll get them recommended.
+
+By this point, she gives us some kind of conclusion: 
+First you have to get people to click on your video, you do this by putting tags and having great thumbnails. This gives us click-though rate.
+
+Then, your video has to be freakin amazing, so that your video actually engages people and makes them stick to it. You do this by making people like, comment and stay in your video. This gives us retention time.
+
+
 
 ## Chair
 - Best Cheap
